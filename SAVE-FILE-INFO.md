@@ -6,7 +6,7 @@ Based on the information present in Save Files from Sonic Dash v4.28.0. Informat
 
 Sonic the Hedgehog, Sonic Dash, and other intellectual properties are owned by SEGA or their respective owner(s). The information present here does not exist for any malicious intentions.
 ## Format
-Content in a SD Save File doesn't follow an explicit sequence and so a fields placement in a Save File isn't indicitive of what it corresponds to in-game; headers are used on the line above to identify what a field represents, as an example:
+The placement of a field in a SD Save File isn't indicitive of what it corresponds to in-game, so headers are used on the line above the aforementioned field to identify what it represents, as an example:
 Header             | Field 
 -------------------|-------
 RingsAsBlaze_Total | 377   
